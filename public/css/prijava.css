@@ -1,0 +1,67 @@
+body {
+  background-color: rgb(75, 206, 206);
+  margin: 0px;
+}
+
+.forma_za_prijavu {
+  display: block;
+  margin: auto;
+  width: 25%;
+}
+
+h1 {
+  text-align: center;
+}
+
+label {
+  margin-bottom: 100px;
+}
+
+input {
+  width: 98%;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border: 1px solid grey;
+  border-radius: 3px;
+}
+
+#password {
+  width: 98%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: 1px solid grey;
+  border-radius: 3px;
+}
+
+button {
+  display: block;
+  margin: auto;
+  justify-content: center;
+  width: 25%;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: rgb(244, 255, 84);
+  color: black;
+  border: none;
+  border-radius: 3px;
+}
+
+button:hover {
+  background-color: rgb(255, 213, 0);
+}
+
+#pozitivnaPoruka {
+  color: green;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#negativnaPoruka {
+  color: red;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}

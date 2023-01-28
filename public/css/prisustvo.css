@@ -1,0 +1,80 @@
+.response_tabel {
+  overflow-x:auto;
+}
+table, th, td {
+    background-color: white;
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: left;
+    vertical-align:top;
+  }
+table {
+  margin-left: auto; 
+  margin-right: auto;
+  }
+td {
+  height: 25px;
+}
+th {
+  font-weight: bold;
+  font-size: 13pt;
+  padding-right: 10px;
+  padding-top: 15px;
+}
+.prva_kolona {
+  min-width: 65px;
+  max-width: 65px;
+}
+.zadnja_kolona {
+  min-width: 350px;
+  max-width: 350px;
+}
+.rubrike {
+  padding: 10px;
+  font-size: 10pt;
+}
+.velicina_rubrike {
+  padding: 10px;
+  font-size: 10pt;
+  min-width: 37px;
+  max-width: 37px;
+}
+.prisutan {
+  background-color: green;
+  min-width: 12px;
+  max-width: 12px;
+}
+.odsutan {
+  background-color: red;
+  min-width: 12px;
+  max-width: 12px;
+}
+.nije_uneseno {
+  background-color: white;
+  min-width: 12px;
+  max-width: 12px;
+}
+h1, h2, h3 {
+  text-align: center;
+}
+.klasa {
+  display: none;
+}
+.greska {
+  font-weight: bold;
+  text-align: center;
+}
+.dugme {
+  background-color: rgb(75, 206, 206);
+  border: 0px solid black;
+  border-collapse: collapse;
+  padding-top: 20px;
+  padding-right: 40px;
+  padding-left: 40px;
+  text-align: center;
+}
+.button {
+  width: 70px;
+  height: 60px;
+}

@@ -1,0 +1,273 @@
+body {
+    background-color: rgb(75, 206, 206);
+    margin: 0px;
+}
+
+#tabela {
+    margin-top: 20px;
+}
+
+a {
+    padding: 10px;
+}
+
+.prisutan:hover, .odsutan:hover, .nije_uneseno:hover{
+    filter: brightness(65%);
+}
+
+.zaledi {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(0, 255, 191);
+    position: sticky;
+    margin: 0px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+}
+
+a:hover {
+    background-color: rgb(255, 255, 121);
+}
+
+[id] {
+    scroll-margin-top: 105px;
+}
+
+.flex-container {
+    background-color: rgb(0, 255, 191);
+    position: sticky;
+    top: 0px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    height: 90px;
+    width: 100%;
+}
+
+.flex-container>div {
+    background-color: rgb(0, 255, 191);
+    margin: 0px;
+    font-size: 15px;
+}
+
+#dugme_za_odjavu {
+    margin-right: 0;
+    display: block;
+    justify-content: center;
+    width: 7%;
+    padding: 10px;
+    background-color: rgb(255, 96, 96);
+    color: black;
+    border: none;
+    border-radius: 3px;
+}
+
+#dugme_za_odjavu:hover {
+    background-color: rgb(255, 19, 19);
+}
+
+@media only screen and (max-width: 882px) {
+    .flex-container {
+        background-color: rgb(0, 255, 191);
+        position: sticky;
+        top: 0px;
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width: 747px) {
+    .flex-container {
+        background-color: rgb(0, 255, 191);
+        position: sticky;
+        top: 0px;
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width: 680px) {
+    .flex-container {
+        background-color: rgb(0, 255, 191);
+        position: sticky;
+        top: 0px;
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width: 629px) {
+    .flex-container {
+        background-color: rgb(0, 255, 191);
+        position: sticky;
+        top: 0px;
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width: 626px) {
+    .flex-container {
+        background-color: rgb(0, 255, 191);
+        position: sticky;
+        top: 0px;
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width: 622px) {
+    .flex-container {
+        background-color: rgb(0, 255, 191);
+        position: sticky;
+        top: 0px;
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width: 562px) {
+    .flex-container {
+        background-color: rgb(0, 255, 191);
+        position: sticky;
+        top: 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width: 233px) {
+    .flex-container {
+        background-color: rgb(0, 255, 191);
+        position: relative;
+        top: 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width: 226px) {
+    .flex-container {
+        background-color: rgb(0, 255, 191);
+        position: relative;
+        top: 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width: 199px) {
+    .flex-container {
+        background-color: rgb(0, 255, 191);
+        position: relative;
+        top: 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width: 182px) {
+    .flex-container {
+        background-color: rgb(0, 255, 191);
+        position: relative;
+        top: 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width: 179px) {
+    .flex-container {
+        background-color: rgb(0, 255, 191);
+        position: relative;
+        top: 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width: 156px) {
+    .flex-container {
+        background-color: rgb(0, 255, 191);
+        position: relative;
+        top: 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width: 154px) {
+    .flex-container {
+        background-color: rgb(0, 255, 191);
+        position: relative;
+        top: 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width: 153px) {
+    .flex-container {
+        background-color: rgb(0, 255, 191);
+        position: relative;
+        top: 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width: 152px) {
+    .flex-container {
+        background-color: rgb(0, 255, 191);
+        position: relative;
+        top: 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 90px;
+    }
+}

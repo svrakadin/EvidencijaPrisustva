@@ -1,0 +1,40 @@
+[
+    {
+        "nastavnik": {
+            "username": "dinsvraka",
+            "password_hash": "$2b$10$0UsGQoixf/JqMMy2Kq1a6.YGFtMWAL4RjuSOWOy.KTL6TjPz6/UGm"
+        },
+        "predmeti": [
+            "Razvoj mobilnih aplikacija",
+            "Web tehnologije",
+            "Inženjerska matematika 1",
+            "Inženjerska matematika 2",
+            "Tehnike programiranja",
+            "Diskretna matematika",
+            "Objektno orijentisana analiza i dizajn"
+        ]
+    },
+    {
+        "nastavnik": {
+            "username": "husohusic",
+            "password_hash": "$2b$10$LdFpkp2haP0zm5ETjfksbOADm6XdatsDfY5/HsU4eW9lXEvkDoF16"
+        },
+        "predmeti": [
+            "Razvoj mobilnih aplikacija",
+            "Objektno orijentisana analiza i dizajn",
+            "Web tehnologije"
+        ]
+    },
+    {
+        "nastavnik": {
+            "username": "matematic",
+            "password_hash": "$2b$10$SyUhFwIuGcznM4ek7S4zweSGDAOrqo3twneviLWf.OEkU7895hSIG"
+        },
+        "predmeti": [
+            "Inženjerska matematika 1",
+            "Inženjerska matematika 2",
+            "Diskretna matematika",
+            "Linearna algebra i geometrija"
+        ]
+    }
+]
